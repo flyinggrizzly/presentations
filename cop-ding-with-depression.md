@@ -10,6 +10,15 @@ https://grz.li
 
 ^ Hi, I'm Sean.
 
+^ Who am I?
+
+^- I'm a Ruby and Rails developer at the University of Bath, where I work on our CMS applications
+- I have been developing for a year or so now
+- I used to be an actor, this is a second career (or third, or whatever)
+- I play a lot of board and tabletop roleplaying games
+  - if you need a reason to come talk to me later, I love talking about RPGs and AP podcasts
+- I suffer from depression
+
 
 ---
 
